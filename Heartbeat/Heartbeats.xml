@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<heartbeat>
+  <machine>
+    <name>Machine #1</name>
+    <hostname>MACHINE1NAME</hostname>
+    <address>10.100.50.100</address>
+    <recipients>
+      <email>email1@domain.com</email>
+      <email>email2@domain.com</email>
+    </recipients>
+  </machine>
+  <machine>
+    <name>Machine #2</name>
+    <hostname>MACHINE2NAME</hostname>
+    <address>10.100.50.101</address>
+    <recipients>
+      <email>email1@domain.com</email>
+    </recipients>
+  </machine>
+  <machine>
+    <name>Machine #3</name>
+    <hostname>MACHINE3NAME</hostname>
+    <address>10.100.50.102</address>
+    <recipients>
+      <email>email2@domain.com</email>
+    </recipients>
+  </machine>
+</heartbeat>
